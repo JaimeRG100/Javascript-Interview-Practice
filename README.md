@@ -13,4 +13,7 @@ There are 2 duplicates: numbers 2 and 3. The second occurrence of 3 has a smalle
 For ```a = [2, 4, 3, 5, 1]```, the output should be
 ```firstDuplicate(a) = -1```.
 
+## Solution
+
 Here is my [solution](001-first-Duplicate-in-an-Array.js)
+11 Run tests approved
